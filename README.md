@@ -1,1 +1,1 @@
-# Stock-prediction-suing-ML-algorithms
+# Stock-prediction-using-ML-algorithms
